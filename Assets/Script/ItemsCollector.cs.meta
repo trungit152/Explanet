@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3e2ebbf958f479340becb39748ee9099
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Cherry: {fileID: 53716209331749458, guid: 0de7276a32819f54489ab0201c57dd24, type: 3}
+  - cherriesText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
